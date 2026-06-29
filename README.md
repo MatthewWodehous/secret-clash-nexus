@@ -95,3 +95,12 @@ A typical workflow is:
 ### Edit Locally
 
 You can work with any preferred editor or IDE.
+
+Clone the repository, install dependencies, run the development server, and commit your changes through Git.
+
+### Edit in GitHub
+
+You can also make small changes directly in GitHub:
+
+1. Open the file you want to change.
+2. Click the pencil icon to edit.
