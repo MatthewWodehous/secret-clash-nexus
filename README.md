@@ -138,3 +138,13 @@ Other available scripts may be listed in `package.json`.
 Check that file for the full set of supported commands.
 
 ## Deployment
+
+The project can be published from Lovable.
+
+Open the project and use:
+
+```text
+Share -> Publish
+```
+
+Follow the on-screen steps to complete the publish process.
