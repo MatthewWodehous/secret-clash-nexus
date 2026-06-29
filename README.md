@@ -156,3 +156,11 @@ A custom domain can be connected from the project settings.
 In Lovable, go to:
 
 ```text
+Project -> Settings -> Domains -> Connect Domain
+```
+
+For more details, see:
+
+https://docs.lovable.dev/features/custom-domain#custom-domain
+
+## Notes
