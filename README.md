@@ -51,3 +51,12 @@ https://github.com/nvm-sh/nvm#installing-and-updating
 ## Setup
 
 Clone the repository:
+
+```sh
+git clone https://github.com/MatthewWodehous/secret-clash-nexus.git
+```
+
+Move into the project directory:
+
+```sh
+cd secret-clash-nexus
