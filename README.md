@@ -60,3 +60,10 @@ Move into the project directory:
 
 ```sh
 cd secret-clash-nexus
+```
+
+Install dependencies:
+
+```sh
+npm i
+```
