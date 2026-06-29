@@ -77,3 +77,12 @@ npm run dev
 After the development server starts, open the local URL shown in your terminal.
 
 ## Usage
+
+Use the development server while editing the application.
+
+Most changes will be reflected quickly in the browser during development.
+
+A typical workflow is:
+
+1. Create or update components.
+2. Adjust styling with Tailwind CSS.
