@@ -24,3 +24,12 @@ It is designed for fast local development, component-based UI work, and straight
 
 - GitHub repository: https://github.com/MatthewWodehous/secret-clash-nexus.git
 - Lovable project: https://lovable.dev/projects/08493d56-9fbe-46f2-88ed-9a6287d336c9
+
+## Tech Stack
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
