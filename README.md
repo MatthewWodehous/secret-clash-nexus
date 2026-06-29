@@ -42,3 +42,12 @@ This project is built with:
 Before running the project locally, install:
 
 - Node.js
+- npm
+
+If you need a Node.js version manager, you can use nvm:
+
+https://github.com/nvm-sh/nvm#installing-and-updating
+
+## Setup
+
+Clone the repository:
