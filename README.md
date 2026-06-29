@@ -86,3 +86,12 @@ A typical workflow is:
 
 1. Create or update components.
 2. Adjust styling with Tailwind CSS.
+3. Reuse or customize shadcn-ui components.
+4. Test the app locally with `npm run dev`.
+5. Commit and push changes to the repository.
+
+## Editing the Project
+
+### Edit Locally
+
+You can work with any preferred editor or IDE.
