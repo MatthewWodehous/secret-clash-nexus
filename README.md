@@ -104,3 +104,11 @@ You can also make small changes directly in GitHub:
 
 1. Open the file you want to change.
 2. Click the pencil icon to edit.
+3. Make your updates.
+4. Commit the changes.
+
+### Edit with GitHub Codespaces
+
+To use GitHub Codespaces:
+
+1. Open the repository on GitHub.
