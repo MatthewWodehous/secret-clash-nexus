@@ -120,3 +120,13 @@ To use GitHub Codespaces:
 ### Edit with Lovable
 
 You can open the Lovable project here:
+
+https://lovable.dev/projects/08493d56-9fbe-46f2-88ed-9a6287d336c9
+
+Use the project workspace to make changes and publish updates as needed.
+
+## Available Scripts
+
+The original project setup includes the development command:
+
+```sh
