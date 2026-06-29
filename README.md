@@ -148,3 +148,11 @@ Share -> Publish
 ```
 
 Follow the on-screen steps to complete the publish process.
+
+## Custom Domain
+
+A custom domain can be connected from the project settings.
+
+In Lovable, go to:
+
+```text
