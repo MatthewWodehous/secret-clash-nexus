@@ -164,3 +164,13 @@ For more details, see:
 https://docs.lovable.dev/features/custom-domain#custom-domain
 
 ## Notes
+
+Keep dependencies up to date with care.
+
+Review changes locally before pushing.
+
+Use clear commit messages so future changes are easy to understand.
+
+Check `package.json` before adding new tooling or commands.
+
+Preserve the existing project structure unless a change clearly improves maintainability.
