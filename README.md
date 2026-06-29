@@ -112,3 +112,11 @@ You can also make small changes directly in GitHub:
 To use GitHub Codespaces:
 
 1. Open the repository on GitHub.
+2. Click the green **Code** button.
+3. Select the **Codespaces** tab.
+4. Create a new codespace.
+5. Edit, commit, and push your changes.
+
+### Edit with Lovable
+
+You can open the Lovable project here:
