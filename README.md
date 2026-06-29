@@ -33,3 +33,12 @@ This project is built with:
 - TypeScript
 - React
 - shadcn-ui
+- Tailwind CSS
+- Node.js
+- npm
+
+## Requirements
+
+Before running the project locally, install:
+
+- Node.js
