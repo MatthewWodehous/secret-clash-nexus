@@ -67,3 +67,13 @@ Install dependencies:
 ```sh
 npm i
 ```
+
+Start the development server:
+
+```sh
+npm run dev
+```
+
+After the development server starts, open the local URL shown in your terminal.
+
+## Usage
