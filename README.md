@@ -130,3 +130,11 @@ Use the project workspace to make changes and publish updates as needed.
 The original project setup includes the development command:
 
 ```sh
+npm run dev
+```
+
+Other available scripts may be listed in `package.json`.
+
+Check that file for the full set of supported commands.
+
+## Deployment
